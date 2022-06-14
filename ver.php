@@ -22,6 +22,7 @@ if (!$foto) {
 </head>
 <body>
     <h1>Foto:</h1>
+    <h1>Foto2:</h1>
     <img src="data:image/png;base64,<?php echo $foto->foto; ?>">
 </body>
 </html>
